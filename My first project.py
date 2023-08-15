@@ -1,0 +1,6 @@
+name = input("What is your name \n")
+print("hello " + name)
+place = input("where are you from \n")
+print("nice to meet you ")
+age = input("how old are you \n")
+print("hope to have a long happy life")
